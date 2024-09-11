@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "991748255279",
+    "firebase_url": "https://fireflutter-f4258-default-rtdb.firebaseio.com",
+    "project_id": "fireflutter-f4258",
+    "storage_bucket": "fireflutter-f4258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991748255279:android:a326dc8ca0c9e73f92a0da",
+        "android_client_info": {
+          "package_name": "com.example.final_iti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL7F6Ce2rdZI3Ag7BzYVRwdXtlD8rRgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991748255279:android:8e56bb7dd2de8f4e92a0da",
+        "android_client_info": {
+          "package_name": "com.example.fireflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL7F6Ce2rdZI3Ag7BzYVRwdXtlD8rRgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
