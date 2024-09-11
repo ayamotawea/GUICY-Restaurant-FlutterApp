@@ -1,4 +1,4 @@
-# final_iti
+# GUICY Restaurant Flutter App
 
 A new Flutter project.
 
