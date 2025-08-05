@@ -1,6 +1,6 @@
 # GUICY Restaurant Flutter App
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/3053a740-50ce-4117-aef4-c35d5d7c79ff" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/3053a740-50ce-4117-aef4-c35d5d7c79ff" />
 
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe7d70cd-4aa6-4725-a909-fdab13b60c4e" />
