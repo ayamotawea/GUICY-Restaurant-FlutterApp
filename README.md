@@ -1,7 +1,6 @@
 # GUICY Restaurant Flutter App
 Flutter App for restaurant . for use, first sign in or up and complete your profile info if you didn't to be able to order what you want , you can love items and will be saved in favorites and also you can delete any item from list, your orders saved in cart and also you can delete any order. finally all data saved in firebase and able to increased. 
 
-
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/3053a740-50ce-4117-aef4-c35d5d7c79ff" />
 
 
